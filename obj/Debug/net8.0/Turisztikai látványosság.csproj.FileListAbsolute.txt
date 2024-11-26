@@ -1,0 +1,14 @@
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\bin\Debug\net8.0\Turisztikai látványosság.exe
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\bin\Debug\net8.0\Turisztikai látványosság.deps.json
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\bin\Debug\net8.0\Turisztikai látványosság.runtimeconfig.json
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\bin\Debug\net8.0\Turisztikai látványosság.dll
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\bin\Debug\net8.0\Turisztikai látványosság.pdb
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\obj\Debug\net8.0\Turisztikai látványosság.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\obj\Debug\net8.0\Turisztikai látványosság.AssemblyInfoInputs.cache
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\obj\Debug\net8.0\Turisztikai látványosság.AssemblyInfo.cs
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\obj\Debug\net8.0\Turisztikai látványosság.csproj.CoreCompileInputs.cache
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\obj\Debug\net8.0\Turisztikai látványosság.dll
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\obj\Debug\net8.0\refint\Turisztikai látványosság.dll
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\obj\Debug\net8.0\Turisztikai látványosság.pdb
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\obj\Debug\net8.0\Turisztikai látványosság.genruntimeconfig.cache
+C:\Users\sinko.david\source\repos\Turisztikai látványosság\obj\Debug\net8.0\ref\Turisztikai látványosság.dll
